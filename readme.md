@@ -1,6 +1,4 @@
 # Ford GoBike tripdata analysis
-## by Rayan Alharbi
-
 
 ## Dataset
 
